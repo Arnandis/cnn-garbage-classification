@@ -58,8 +58,12 @@ Accuracy objetivo: > 80.00%
 
 Accuracy obtenido (Fase 1 Base): 72.11%
 
+Mejor accuracy (Fases 2+3 - CNN_BatchNorm_Deep): 85.53%
+
 <img width="886" height="389" alt="image" src="https://github.com/user-attachments/assets/0faff150-89a4-4b29-8719-3d1d68698e5f" />
 
+<img width="981" height="449" alt="image" src="https://github.com/user-attachments/assets/b24f57d1-bb7d-4ea4-98d9-e3c09f8b87d3" />
 
 
-Mejor accuracy (Fases 2+3 - CNN_BatchNorm_Deep): 85.53%
+
+
